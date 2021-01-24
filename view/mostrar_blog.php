@@ -10,7 +10,7 @@
         width:400px;
         margin: auto;
         background-color: #f4f3db;
-        padding:25px;
+        padding:24px;
         
        
     }
